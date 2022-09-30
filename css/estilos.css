@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat%7CRaleway%27");
+body{
+    padding-top: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar{
+    background-color: burlywood;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.carousel-item{
+    height: 38rem;
+
+}
+
+#capy1{
+    background-position: center top;
+}
+
+#capy2{
+    background-position: center;
+}
+
+
+
+h5{
+    text-align: left;
+}
+
+.img-dato-der{
+    float: right;
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+    margin-left: 50px;
+   
+}
+
+.img-dato-izq{
+    float: left;
+    width: 500px;
+    height: 300px;
+    margin: 20px 50px;
+   
+}
+
+.dato{
+    text-align: justify;
+    padding: 30px;
+    margin: 20px;
+    margin-bottom: 180px;
+    font-size: large;
+    font-style: italic;
+    
+}
+
+
